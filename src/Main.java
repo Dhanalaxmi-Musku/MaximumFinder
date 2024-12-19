@@ -4,6 +4,7 @@ public class Main {
 		 IntegerMaximum.testIntegerMax();
 		 FloatMaximum.testFloatMax();
 		 StringMaximum.testStringMax();
+		 MaximumFinder.testGenericMax();
 	}
 
 }
