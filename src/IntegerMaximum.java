@@ -9,7 +9,7 @@ public class IntegerMaximum {
 	    }
 
 	    public static void testIntegerMax() {
-	        System.out.println("\nTesting Integer Maximum:");
+	        System.out.println("Testing Integer Maximum:");
 	        Integer result1 = findMax(30, 20, 10);
 	        System.out.println("TC 1.1 Pass: " + (result1 == 30));
 	        Integer result2 = findMax(20, 30, 10);
